@@ -1,5 +1,5 @@
 import unittest
-frtranslator import englishToFrench, frenchToEnglish
+from translator import englishToFrench, frenchToEnglish
 
 class TestMyTests(unittest.TestCase):
     def test1_1englishToFrench1(self):
